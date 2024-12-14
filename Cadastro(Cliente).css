@@ -1,0 +1,82 @@
+body {
+            
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Garante fonte consistente */
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente o conteúdo */
+    align-items: center; /* Centraliza verticalmente o conteúdo */
+    height: 100vh; /* Faz o corpo ocupar 100% da altura da tela */
+    background-color: #ffffff; /* Azul Cobalto */
+
+            
+            
+        }
+        
+        h1{
+            
+            font-size: 55px;
+            text-align: center;
+            margin-bottom: 565px; /* Adiciona espaçamento abaixo do título */
+            transform: translateX(-120px); /* Ajusta a posição vertical, se necessário */
+            
+            
+        }
+        
+
+        
+        img{
+            filter: brightness(40%);
+            transform: translateX(-18%);
+            border-radius: 5px;
+            margin-bottom: 0px;
+            
+            
+            
+           }
+
+
+            svg{ 
+                margin-top: -525%;
+                transform: translateX(180%);
+
+
+
+
+
+               }
+
+            .form-control{
+
+            
+            
+                width:600%;
+                margin-bottom: 30px;
+                transform: translateX(-450px);
+                align-items: center;
+                border:  solid #023E8A;
+                max-width: 450px;
+            }
+            
+            label{
+                transform: translateX(-450px);
+
+                 }
+           
+
+            
+            a{ 
+                
+                transform: translateX(-360px);
+                width: 250px;
+                margin-bottom: 20%;
+                
+
+            }
+           
+              
+              
+            
+               
+           
+            
